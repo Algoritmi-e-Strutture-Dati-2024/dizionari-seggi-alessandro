@@ -1,12 +1,3 @@
-/*Gestione delle Coppie <chiave, valore>
-
-Inserisci: Aggiunge una coppia <chiave, valore> al dizionario. (é giá implementata nel codice base)
-Cancella: Rimuove una coppia dato il valore della chiave.
-Recupera: Restituisce il valore associato a una chiave specifica. (é giá implementata nel codice base)
-Appartiene: Verifica se una chiave è presente nel dizionario.
-Stampa: Stampa il contenuto del dizionario in un formato leggibile. (é giá implementata nel codice base)*/
-
-
 #include <iostream>
 
 template <typename T>
